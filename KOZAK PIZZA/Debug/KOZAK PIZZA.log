@@ -1,0 +1,30 @@
+﻿Build started 2015-01-21 16:17:01.
+     1>Project "D:\Paul Kastel\Dokumenty\Studia\III SEMESTR\Programowanie obiektowe\Laboratoria - mgr Daniel Bachniak\Projekt Semestralny - Paweł Kastelik\KOZAK PIZZA\KOZAK PIZZA.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GENERATOR PIZZY.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt waluta.cpp
+         waluta.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Paul Kastel\Dokumenty\Studia\III SEMESTR\Programowanie obiektowe\Laboratoria - mgr Daniel Bachniak\Projekt Semestralny - Paweł Kastelik\Debug\GENERATOR PIZZY.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GENERATOR PIZZY.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Paul Kastel\Dokumenty\Studia\III SEMESTR\Programowanie obiektowe\Laboratoria - mgr Daniel Bachniak\Projekt Semestralny - Paweł Kastelik\Debug\GENERATOR PIZZY.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Paul Kastel\Dokumenty\Studia\III SEMESTR\Programowanie obiektowe\Laboratoria - mgr Daniel Bachniak\Projekt Semestralny - Paweł Kastelik\Debug\GENERATOR PIZZY.lib" /MACHINE:X86 Debug\ciasto.obj
+         Debug\dodatki.obj
+         Debug\global.obj
+         Debug\MAIN.obj
+         Debug\mieso.obj
+         Debug\pizza.obj
+         Debug\promocje.obj
+         Debug\rachunek.obj
+         Debug\waluta.obj
+         Debug\wege.obj
+         LINK : D:\Paul Kastel\Dokumenty\Studia\III SEMESTR\Programowanie obiektowe\Laboratoria - mgr Daniel Bachniak\Projekt Semestralny - Paweł Kastelik\Debug\GENERATOR PIZZY.exe not found or not built by the last incremental link; performing full link
+         KOZAK PIZZA.vcxproj -> D:\Paul Kastel\Dokumenty\Studia\III SEMESTR\Programowanie obiektowe\Laboratoria - mgr Daniel Bachniak\Projekt Semestralny - Paweł Kastelik\Debug\GENERATOR PIZZY.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Paul Kastel\Dokumenty\Studia\III SEMESTR\Programowanie obiektowe\Laboratoria - mgr Daniel Bachniak\Projekt Semestralny - Paweł Kastelik\Debug\GENERATOR PIZZY.exe;#1" /manifest "Debug\GENERATOR PIZZY.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\GENERATOR PIZZY.unsuccessfulbuild".
+         Touching "Debug\GENERATOR PIZZY.lastbuildstate".
+     1>Done Building Project "D:\Paul Kastel\Dokumenty\Studia\III SEMESTR\Programowanie obiektowe\Laboratoria - mgr Daniel Bachniak\Projekt Semestralny - Paweł Kastelik\KOZAK PIZZA\KOZAK PIZZA.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27

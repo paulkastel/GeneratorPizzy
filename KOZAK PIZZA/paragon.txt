@@ -1,0 +1,15 @@
+GENERATOR PIZZY C++
+ul. kompilator 1010
+NIP:0101001011
+PARAGON FISKALNY
+Jan 21 2015	16:08:28
+--------------------
+Smaczna	29 PLN
+--------------------
+Piwo		 6 PLN
+--------------------
+sos ostry	  1 PLN
+--------------------
+Znizka:		-10 PLN
+--------------------
+RAZEM		26 PLN
